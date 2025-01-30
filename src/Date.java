@@ -37,7 +37,6 @@ public class Date {
         this.year = year;
     }
 
-
     //toString
     public String toString() {
         return String.format("Formatted Date: " + "%02d/%02d/%d", day, month, year);
