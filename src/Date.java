@@ -36,6 +36,7 @@ public class Date {
         this.month = month;
         this.year = year;
     }
+    //methods
 
     //toString
     public String toString() {
